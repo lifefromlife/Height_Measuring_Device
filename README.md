@@ -11,7 +11,7 @@
 
 이를 이용해 초음파 센서 2개를 활용해서 adult인지, child 인지 판단합니다.
 
-
+<img width="80%" src="https://user-images.githubusercontent.com/105138423/218358622-243c381d-9f29-4190-bcee-9a2f2224e6dc.jpg"/>
 
 ### 라즈베리파이 장착
 
