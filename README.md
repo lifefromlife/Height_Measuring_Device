@@ -7,3 +7,8 @@
 라즈베리파이 연결된 상태로 rosrun 라즈베리파이 안쪽에 있는 파일명 door.py 실행 가능합니다.
 
 rostopic list로 sensor1, sensor2, height 값 확인 가능. 
+
+
+
+특정 위치에 있는 초음파 센서가 근접하면 어른이다라고 인지하는 매커니즘. 
+
